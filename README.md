@@ -133,7 +133,7 @@ sudo chmod -R 755 /var/www/html
 
 3. 🚨 **IMPORTANTE**:
 
-   * Si se asigna un dominio (ej: `conocer.gob.mx`), configurarlo posteriormente.
+   * Si se asigna un dominio, configurarlo posteriormente.
    * Instalar HTTPS con **Let's Encrypt**:
 
      ```bash
